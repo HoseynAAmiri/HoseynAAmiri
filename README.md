@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![logo](./ME_Woodruff_School_GTGold_RGB.png)
 <!--
 **HoseynAAmiri/HoseynAAmiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
